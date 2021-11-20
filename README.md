@@ -1,9 +1,6 @@
-## Personal Portfolio
-
-### [Live Site]https://iguessimnick.github.io/homework-20-react-portfolio/
-
 # My Portfolio
 
+### [Live Site]https://iguessimnick.github.io/homework-20-react-portfolio/
 -----------
 # Description
 Hey, welcome to my portfolio page
