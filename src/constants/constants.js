@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/3.png',
       tags: ['React', 'Express.js', 'Node.js', 'MongoDB', 'GraphQL'],
     source: 'https://iguessimnick.github.io/project-01/',
-    visit: 'https://github.com/IGuessImNick/project-01',
+    visit: 'https://github.com/IGuessImNick/Rise-Companion-App',
     id: 0,
   },
   {
