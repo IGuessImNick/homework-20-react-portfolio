@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Rise Companion App',
     description: "The Rise Companion App is a complmentary app to be used by players of the Rise System (a work in progress). It is built with modern MERN architecture and uses GraphQL documentation for the database. Players of the Rise System can keep track of their Characters and Achievements, as well as access a Dice Roller to make jumping into the game quick and easy!",
-      image: '/images/1.png',
+      image: '/images/3.png',
       tags: ['React', 'Express.js', 'Node.js', 'MongoDB', 'GraphQL'],
     source: 'https://iguessimnick.github.io/project-01/',
     visit: 'https://github.com/IGuessImNick/project-01',
